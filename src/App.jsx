@@ -24,7 +24,7 @@ function TodoList() {
 
   return (
     <div className="container">
-      <h1 className="h">Todo List</h1>
+      <h1 className="h">TODO LIST</h1>
       <div className="input-group">
         <input
           type="text"
