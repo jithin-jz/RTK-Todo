@@ -11,7 +11,6 @@ A simple Todo List application built with React and Redux. This app allows users
 - Clean and responsive design with CSS
 
 ## Technologies Used
-
 - React
 - Redux Toolkit
 - CSS
